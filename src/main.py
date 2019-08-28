@@ -1,5 +1,4 @@
 print "hi this is first line"
-<<<<<<< HEAD
 #this is for checking soft
 #hi this added in master beofre merging 
 #this code is added in Relaase_1.0
